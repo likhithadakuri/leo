@@ -9,6 +9,7 @@ public static void main(String args)
 	System.out.print("hi");
 	System.out.print("hi123");
 	System.out.print("hello");
+	System.out.print("hello");System.out.print("hello");System.out.print("hello");
 	
 }
 
